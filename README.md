@@ -4,15 +4,24 @@ project started 06.09.25
 
 goals
 
-main page❌
+1.main page❌
 
-personal page❌
+2.personal page❌
 
-change personal info: pfp, nickname, username, bio, followers, following❌
+3.change personal info:
+3.1.pfp❌
+3.2.nickname ❌
+3.3username❌
+3.4bio❌
+3.5followers❌
+3.6following❌
 
-post photo, stories❌
+4.post photos❌
+4.1stories❌
 
-likes, comments, reposts❌
+5.likes❌
+5.1comments❌
+5.2reposts❌
 
 view other people pages❌
 
