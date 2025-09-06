@@ -1,5 +1,4 @@
-## Богдан, мне лень писать 
-## соц сеть делаю 
+## in100gram
 project started 06.09.25
 
 goals
@@ -32,16 +31,16 @@ goals
 
 5.2reposts❌
 
-view other people pages❌
+6.view other people pages❌
 
-search❌
+7.search❌
 
-messages❌
+8.messages❌
 
-notifications❌
+9.notifications❌
 
-private acc❌
+10.private acc❌
 
-block other users❌
+11.block other users❌
 
 © Copyright
