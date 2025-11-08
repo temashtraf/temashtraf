@@ -27,7 +27,7 @@ goals
 
 5.likes✅
 
-5.1comments❌
+5.1comments✅❌
 
 5.2reposts❌
 
@@ -38,9 +38,5 @@ goals
 8.messages❌
 
 9.notifications❌
-
-10.private acc❌
-
-11.block other users❌
 
 © Copyright
